@@ -1,0 +1,1 @@
+function addNumber(n,o){return n+o}console.log("这是第一个js文件"),addNumber(5,9999),console.log("这是main2中的内容"),alert("main2");
